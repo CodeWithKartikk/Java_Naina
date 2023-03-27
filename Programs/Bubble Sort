@@ -1,0 +1,42 @@
+Bubble Sort 
+2 3 1 5 4
+i j
+  i j
+    i j
+      i j 
+i -> traverse in an Array
+j ->
+
+[j-1] or i > [j] -> Ascending Order
+[j-1] or i < [j] -> Descending Order
+
+
+First Pass 
+2>3 -> 2 3 1 5 4
+3>1 -> 2 1 3 5 4 (swap)
+3>5 -> No swap 2 1 3 5 4
+5>4 -> 2 1 3 4 5(swap)
+
+2 1 3 4 5
+
+Second Pass
+2>1 -> 1 2 3 4 5 
+2>3 -> No swap
+3>4 -> No swap
+4>5 -> No swap
+
+Array is sorted
+1 2 3 4 5
+
+
+12 17 14 25 10
+
+
+Coding 
+1. Bubble Sort - Done
+2. Palindrome - Done
+3. Binary Search - Done
+4. Linear Search - Done
+5. Switch 
+6. Method Overloading 
+7. MCQ's 
