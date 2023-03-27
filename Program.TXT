@@ -1,0 +1,34 @@
+Linear Search - Done
+Binary Search - Done
+Bubble Sort - Done
+Switch - Done
+Palindrome - Done
+
+Menu Driven Program (Hotel) - Done
+Method Overloading - Done
+Method Calling - Done
+Patterns - Done
+2 Arrays Based Questions - 
+Conditionals - Done
+Pyq's and Doubts - 
+Constructor - 
+
+
+1. Menu Driven Program
+2. Method Overloading
+3. Switch
+4. Bubble Sort / Linear Search / Binary Search / Palindrome
+5. Pattern
+6. Conditionals (a, b)
+
+100 Marks
+
+Revision
+* Binary Search
+* Linear Search
+* Bubble Sort in Asc/Desc
+* Palindrome
+* Pattern
+
+
+
